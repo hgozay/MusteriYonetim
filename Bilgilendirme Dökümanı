@@ -1,0 +1,3 @@
+DBOperations klasöründeki CrudOperations sınıfında bulunan BasePath in değerini kendi local sisteminizde bir dosyayı gösterecek şekilde ayarlaryınız.
+Crud işlemleri, herhangi bir database kurgusu istenmediğinden dolayı, klasörleri database, text dosyaları tablo gibi değerlendirilerek olabildiğince generic yapıda tasarlanmıştır.
+Mail ve mesaj gönderme işlemleri temsili olarak yapılmıştır.
